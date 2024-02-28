@@ -5,4 +5,4 @@ In this react app we have an array with books in the father component and we pas
 https://joanmagam.github.io/react-props/
 
 # Preview:
-![image](https://github.com/JoanMaGam/react-props/assets/122151033/f97a1c15-e495-4511-a708-c24085dcacf9)
+![image](https://github.com/JoanMaGam/react-props/assets/122151033/c16372b5-1a17-490b-938e-8c89271ed5d9)
