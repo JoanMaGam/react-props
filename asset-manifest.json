@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JoanMaGam/react-props/static/css/main.585ebc83.css",
+    "main.js": "/JoanMaGam/react-props/static/js/main.d68a303a.js",
+    "index.html": "/JoanMaGam/react-props/index.html",
+    "main.585ebc83.css.map": "/JoanMaGam/react-props/static/css/main.585ebc83.css.map",
+    "main.d68a303a.js.map": "/JoanMaGam/react-props/static/js/main.d68a303a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.585ebc83.css",
+    "static/js/main.d68a303a.js"
+  ]
+}
